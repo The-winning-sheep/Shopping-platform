@@ -1,0 +1,9 @@
+INSERT INTO `category` (`id`, `name`) VALUES (1, '饼干');
+INSERT INTO `category` (`id`, `name`) VALUES (2, '果脯');
+INSERT INTO `category` (`id`, `name`) VALUES (3, '辣条');
+INSERT INTO `category` (`id`, `name`) VALUES (8, '糖果类');
+INSERT INTO `category` (`id`, `name`) VALUES (9, '生活用品');
+INSERT INTO `category` (`id`, `name`) VALUES (10, '咖啡类');
+INSERT INTO `category` (`id`, `name`) VALUES (11, '饮料');
+INSERT INTO `category` (`id`, `name`) VALUES (12, '文具');
+INSERT INTO `category` (`id`, `name`) VALUES (13, '手机类');
